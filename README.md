@@ -31,4 +31,4 @@ Array of integers:
 
 Array of strings: 
 
-![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(4).png?raw=true)
+![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(1).png?raw=true)
