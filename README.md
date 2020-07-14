@@ -25,10 +25,10 @@ __*List of strings:*__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(3).png?raw=true)
 
-__*Array of integers: *__
+__*Array of integers:*__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(5).png?raw=true)
 
-__*Array of strings: *__
+__*Array of strings:*__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(1).png?raw=true)
