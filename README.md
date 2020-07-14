@@ -12,23 +12,23 @@ Examples of the data which was sorted:
 
 ```{ hDajBb, fA, fc, DhFB, cBgbCJE, AaaJhA , dJ, i, dbCfIc } ```
 
-<p><u>Counting Sort, Radix Sort: </u></p>
+#### __Counting Sort, Radix Sort:__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(4).png?raw=true)
 
-<u>Insertion Sort, Merge Sort, Quick sort: <\u>
-List of integers: 
+#### __Insertion Sort, Merge Sort, Quick sort:__
+__*List of integers:*__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(2).png?raw=true)
  
-List of strings:
+__*List of strings:*__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(3).png?raw=true)
 
-Array of integers: 
+__*Array of integers: *__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(5).png?raw=true)
 
-Array of strings: 
+__*Array of strings: *__
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(1).png?raw=true)
