@@ -12,11 +12,11 @@ Examples of the data which was sorted:
 
 ```{ hDajBb, fA, fc, DhFB, cBgbCJE, AaaJhA , dJ, i, dbCfIc } ```
 
-<u>Counting Sort, Radix Sort: </u>
+<p><u>Counting Sort, Radix Sort: </u></p>
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(4).png?raw=true)
 
-<u>Insertion Sort, Merge Sort, Quick sort: </u>
+<u>Insertion Sort, Merge Sort, Quick sort: <\u>
 List of integers: 
 
 ![](https://github.com/DKarz/readme-media/blob/master/ads1-hw2%20(2).png?raw=true)
